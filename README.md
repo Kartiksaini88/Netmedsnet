@@ -2,7 +2,7 @@
 
 <h2>Here me and my team made a Netmeds clone</h2>
 
-<img src="https://www.bing.com/images/blob?bcid=S6lKRMfMnBsEqxcxoNWLuD9SqbotqVTdP7g" alt="logo" />
+<img src="https://www.bing.com/images/blob?bcid=S6lKRMfMnBsEqxcxoNWLuD9SqbotqVTdP7g" />
 <hr/>
 <img src="https://www.bing.com/images/blob?bcid=S7VPspv4IhsEzQ" />
 <h3>
