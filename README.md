@@ -3,7 +3,7 @@ Project: make a clone of https://www.netmeds.com/ site
 
 This a website which allows you to buy goods, groceries, apparel, footwear, toys, home improvement products, electronic goods, and farm implements and inputs.
 
-&nbsp;&nbsp;&nbsp;&#160;In this project we have tried to make a look alike clone of shopperstop.com website. With our efforts and the technology stack, that we have learned till now in Unit-2 in the masai school, we were able to clone the front end with same looking & features.
+&nbsp;&nbsp;&nbsp;&#160;In this project we have tried to make a look alike clone of netmeds.com website. With our efforts and the technology stack, that we have learned till now in Unit-2 in the masai school, we were able to clone the front end with same looking & features.
 
 
 
